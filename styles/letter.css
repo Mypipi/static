@@ -536,6 +536,7 @@ form {
   padding: 20px 25px;
   text-align: left;
   color: #666;
+  border-radius: 10px;
 }
 .letter-chatlist .list-head {
   margin: 20px 20px 0 0;
@@ -578,6 +579,7 @@ form {
 .letter-chatlist .tooltip.right {
   padding: 0;
   margin: 0;
+  width: 85%;
 }
 .letter-chatlist .tooltip {
   position: relative;
